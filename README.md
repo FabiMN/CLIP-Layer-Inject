@@ -12,8 +12,6 @@ conda create -n clip_layer_inject python=3.8
 conda activate clip_layer_inject
 
 pip install -r requirements.txt
-
-conda install pytorch torchvision cudatoolkit
 ```
 
 ## Running the code
